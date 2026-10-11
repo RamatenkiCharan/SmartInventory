@@ -1,0 +1,6 @@
+package com.inventory.model;
+
+public enum Permission {
+    VIEW, SELL, STOCK_MANAGE, PRODUCT_EDIT, PRODUCT_DELETE,
+    SUPPLIER_MANAGE, PURCHASE, REPORTS, DATA_IO, AUDIT_VIEW, USER_MANAGE
+}
