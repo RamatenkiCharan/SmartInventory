@@ -109,3 +109,4 @@ Data is stored in an SQLite database file, `data/inventory.db`, accessed with pl
 * **Backup:** user menu -> Backup writes a consistent copy to `data/backups/inventory-<time>.db`.
 * **Inspect the data:** open `data/inventory.db` with *DB Browser for SQLite*, or the *SQLite Viewer* extension in VS Code.
 * **Reset:** `--reset` wipes all tables and reloads the demo data.
+
